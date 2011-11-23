@@ -1,0 +1,10 @@
+permalink: pretty
+exclude:
+- .gitignore
+- .rvmrc
+- config.rb
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- README.md
+- public
