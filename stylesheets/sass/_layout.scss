@@ -1,0 +1,55 @@
+@import 'compass/utilities/general/clearfix';
+
+#header-wrapper,
+#masthead-wrapper {
+  @include clearfix;
+  padding: 20px;
+}
+
+#header,
+#masthead,
+#content {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 869px;
+}
+
+#header-wrapper {
+  background-color: #2e2e2e;
+}
+
+#logo {
+  background: url('http://dummyimage.com/200x80') top left no-repeat;
+  float: left;
+  display: block;
+  height: 80px;
+  text-indent: -9000px;
+  width: 200px;
+}
+
+#primary-nav {
+  float: right;
+
+  li {
+    float: left;
+    margin-left: 20px;
+  }
+}
+
+#masthead-wrapper {
+  background-color: #e6e6dd;
+  margin-bottom: 20px;
+}
+
+.column {
+  &.left {
+    float: left;
+    width: 629px;
+  }
+
+  &.right {
+    float: right;
+    margin-left: 50px;
+    width: 190px;
+  }
+}
