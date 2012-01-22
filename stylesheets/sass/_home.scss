@@ -30,10 +30,10 @@ div.map {
 }
 
 div.podcasts {
-  border-top: 4px solid #016e9d;
   @include box-shadow(rgba(0, 0, 0, 0.3) 0 2px 3px);
 
   header {
+    border-top: 4px solid #016e9d;
     padding: 0 10px;
 
     h3 {
@@ -45,5 +45,15 @@ div.podcasts {
 
   ul {
     padding: 10px;
+  }
+
+  li + li {
+    margin-top: 10px;
+  }
+
+  span.author,
+  span.date {
+    color: #777;
+    font-size: 11px;
   }
 }

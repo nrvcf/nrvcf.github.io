@@ -1,1 +1,287 @@
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}table{border-collapse:collapse;border-spacing:0}caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}q,blockquote{quotes:none}q:before,q:after,blockquote:before,blockquote:after{content:"";content:none}a img{border:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{display:block}body{color:#444;font-family:Helvetica, Arial, sans-serif;font-size:13px;line-height:20px}a{color:#016e9d;text-decoration:none}h1,h2,h3,h4,h5,h6{font-family:'Open Sans', Helvetica, Arial, sans-serif;letter-spacing:1px;margin-bottom:20px}h1{font-size:24px;font-weight:300}h2{font-size:18px}h3{font-size:16px}p{margin-bottom:20px}p:last-child{margin-bottom:0}#header-wrapper,#masthead-wrapper,#content-wrapper,#footer-wrapper{padding:20px;overflow:hidden;*zoom:1}#header,#masthead,#content,#footer{margin:0 auto;padding:0 10px;width:869px}#header-wrapper{background-color:#2e2e2e;background-image:url("../images/header-bg.png");background-position:top center;background-repeat:repeat-x;padding-top:25px}#logo{background:url("../images/logo.png") top left no-repeat;float:left;display:block;height:80px;text-indent:-9000px;width:197px}#primary-nav{float:right}#primary-nav li{float:left;margin:30px 0 30px 20px;padding-left:20px}#primary-nav li a{display:block;color:#ddd;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:300;letter-spacing:1px;text-shadow:#000 0 1px 3px}#primary-nav li a:hover{color:#fff}#masthead-wrapper{background-color:#e6e6dd;border-top:1px solid #d8d8cc;border-bottom:1px solid #d8d8cc;padding:20px;-moz-box-shadow:rgba(0,0,0,0.3) 0 -1px 5px;-webkit-box-shadow:rgba(0,0,0,0.3) 0 -1px 5px;-o-box-shadow:rgba(0,0,0,0.3) 0 -1px 5px;box-shadow:rgba(0,0,0,0.3) 0 -1px 5px}#overview{font-family:'Open Sans', Helvetica, Arial, sans-serif}#overview p.quote{font-style:italic;font-weight:300;letter-spacing:1px}#overview p.quote span.reference{font-weight:400}#footer-wrapper{background-color:#2e2e2e;margin-top:20px}.column.left{float:left;width:599px}.column.right{float:right;margin-left:50px;width:220px}#overview{float:left;width:390px}#overview p.quote{font-size:28px;font-style:italic;line-height:40px}#overview p.quote span.reference{font-size:13px}#overview p{font-size:16px;line-height:24px}#slideshow{float:right;margin-left:50px;width:429px}div.map{border:1px solid #d8d8cc;margin-bottom:20px}div.podcasts{border-top:4px solid #016e9d;-moz-box-shadow:rgba(0,0,0,0.3) 0 2px 3px;-webkit-box-shadow:rgba(0,0,0,0.3) 0 2px 3px;-o-box-shadow:rgba(0,0,0,0.3) 0 2px 3px;box-shadow:rgba(0,0,0,0.3) 0 2px 3px}div.podcasts header{padding:0 10px}div.podcasts header h3{border-bottom:1px dotted #d8d8cc;margin-bottom:0;padding:10px 0}div.podcasts ul{padding:10px}
+/* line 17, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 20, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+body {
+  line-height: 1;
+}
+
+/* line 22, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 24, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 26, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 28, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 101, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 30, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 114, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 7, sass/_base.scss */
+body {
+  color: #444;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+/* line 14, sass/_base.scss */
+a {
+  color: #016e9d;
+  text-decoration: none;
+}
+
+/* line 19, sass/_base.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+/* line 25, sass/_base.scss */
+h1 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+/* line 30, sass/_base.scss */
+h2 {
+  font-size: 18px;
+}
+
+/* line 34, sass/_base.scss */
+h3 {
+  font-size: 16px;
+}
+
+/* line 38, sass/_base.scss */
+p {
+  margin-bottom: 20px;
+}
+
+/* line 42, sass/_base.scss */
+p:last-child {
+  margin-bottom: 0;
+}
+
+/* line 4, sass/_layout.scss */
+#header-wrapper,
+#masthead-wrapper,
+#content-wrapper,
+#footer-wrapper {
+  padding: 20px;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 12, sass/_layout.scss */
+#header,
+#masthead,
+#content,
+#footer {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 869px;
+}
+
+/* line 18, sass/_layout.scss */
+#header-wrapper {
+  background-color: #2e2e2e;
+  background-image: url("../images/header-bg.png");
+  background-position: top center;
+  background-repeat: repeat-x;
+  padding-top: 25px;
+}
+
+/* line 26, sass/_layout.scss */
+#logo {
+  background: url("../images/logo.png") top left no-repeat;
+  float: left;
+  display: block;
+  height: 80px;
+  text-indent: -9000px;
+  width: 197px;
+}
+
+/* line 35, sass/_layout.scss */
+#primary-nav {
+  float: right;
+}
+/* line 38, sass/_layout.scss */
+#primary-nav li {
+  float: left;
+  margin: 30px 0 30px 20px;
+  padding-left: 20px;
+}
+/* line 43, sass/_layout.scss */
+#primary-nav li a {
+  display: block;
+  color: #ddd;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-shadow: black 0 1px 3px;
+}
+/* line 52, sass/_layout.scss */
+#primary-nav li a:hover {
+  color: #fff;
+}
+
+/* line 59, sass/_layout.scss */
+#masthead-wrapper {
+  background-color: #e6e6dd;
+  border-top: 1px solid #d8d8cc;
+  border-bottom: 1px solid #d8d8cc;
+  padding: 20px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  -o-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+}
+
+/* line 67, sass/_layout.scss */
+#overview {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+/* line 70, sass/_layout.scss */
+#overview p.quote {
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+/* line 75, sass/_layout.scss */
+#overview p.quote span.reference {
+  font-weight: 400;
+}
+
+/* line 81, sass/_layout.scss */
+#footer-wrapper {
+  background-color: #2e2e2e;
+  margin-top: 20px;
+}
+
+/* line 87, sass/_layout.scss */
+.column.left {
+  float: left;
+  width: 599px;
+}
+/* line 92, sass/_layout.scss */
+.column.right {
+  float: right;
+  margin-left: 50px;
+  width: 220px;
+}
+
+/* line 1, sass/_home.scss */
+#overview {
+  float: left;
+  width: 390px;
+}
+/* line 5, sass/_home.scss */
+#overview p.quote {
+  font-size: 28px;
+  font-style: italic;
+  line-height: 40px;
+}
+/* line 10, sass/_home.scss */
+#overview p.quote span.reference {
+  font-size: 13px;
+}
+/* line 15, sass/_home.scss */
+#overview p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* line 21, sass/_home.scss */
+#slideshow {
+  float: right;
+  margin-left: 50px;
+  width: 429px;
+}
+
+/* line 27, sass/_home.scss */
+div.map {
+  border: 1px solid #d8d8cc;
+  margin-bottom: 20px;
+}
+
+/* line 32, sass/_home.scss */
+div.podcasts {
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
+  -o-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
+}
+/* line 35, sass/_home.scss */
+div.podcasts header {
+  border-top: 4px solid #016e9d;
+  padding: 0 10px;
+}
+/* line 39, sass/_home.scss */
+div.podcasts header h3 {
+  border-bottom: 1px dotted #d8d8cc;
+  margin-bottom: 0;
+  padding: 10px 0;
+}
+/* line 46, sass/_home.scss */
+div.podcasts ul {
+  padding: 10px;
+}
+/* line 50, sass/_home.scss */
+div.podcasts li + li {
+  margin-top: 10px;
+}
+/* line 55, sass/_home.scss */
+div.podcasts span.author,
+div.podcasts span.date {
+  color: #777;
+  font-size: 11px;
+}
