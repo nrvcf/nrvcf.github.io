@@ -22,12 +22,12 @@
 }
 
 #logo {
-  background: url('http://dummyimage.com/200x80') top left no-repeat;
+  background: url('../images/logo.png') top left no-repeat;
   float: left;
   display: block;
   height: 80px;
   text-indent: -9000px;
-  width: 200px;
+  width: 197px;
 }
 
 #primary-nav {
@@ -60,7 +60,7 @@
   border-bottom: 1px solid #d8d8cc;
   margin-bottom: 20px;
   padding: 20px;
-  @include box-shadow(rgba(0, 0, 0, 0.30) 0 -1px 5px);
+  @include box-shadow(rgba(0, 0, 0, 0.3) 0 -1px 5px);
 }
 
 #overview {
