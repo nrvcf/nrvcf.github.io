@@ -60,7 +60,6 @@
   background-color: #e6e6dd;
   border-top: 1px solid #d8d8cc;
   border-bottom: 1px solid #d8d8cc;
-  margin-bottom: 20px;
   padding: 20px;
   @include box-shadow(rgba(0, 0, 0, 0.3) 0 -1px 5px);
 }
@@ -87,12 +86,12 @@
 .column {
   &.left {
     float: left;
-    width: 629px;
+    width: 599px;
   }
 
   &.right {
     float: right;
     margin-left: 50px;
-    width: 190px;
+    width: 220px;
   }
 }

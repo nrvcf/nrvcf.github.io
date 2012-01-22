@@ -1,4 +1,5 @@
 @import 'compass/reset';
+@import 'compass/css3/border-radius';
 @import 'compass/css3/box-shadow';
 @import 'compass/css3/text-shadow';
 @import 'compass/utilities/general/clearfix';
@@ -17,17 +18,21 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-weight: 300;
   letter-spacing: 1px;
   margin-bottom: 20px;
 }
 
 h1 {
   font-size: 24px;
+  font-weight: 300;
 }
 
 h2 {
   font-size: 18px;
+}
+
+h3 {
+  font-size: 16px;
 }
 
 p {
