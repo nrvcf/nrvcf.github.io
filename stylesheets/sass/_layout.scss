@@ -44,6 +44,7 @@
       font-family: 'Open Sans', Helvetica, Arial, sans-serif;
       font-size: 16px;
       font-weight: 300;
+      letter-spacing: 1px;
       @include text-shadow(rgba(0, 0, 0, 1.0) 0 1px 3px);
 
       &:hover {
