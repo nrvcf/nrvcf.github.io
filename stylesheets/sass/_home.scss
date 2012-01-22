@@ -30,7 +30,7 @@ div.map {
 }
 
 div.podcasts {
-  @include box-shadow(rgba(0, 0, 0, 0.3) 0 2px 3px);
+  @include box-shadow(rgba(0, 0, 0, 0.3) 0 1px 3px);
 
   header {
     border-top: 4px solid #016e9d;

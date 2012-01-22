@@ -255,10 +255,10 @@ div.map {
 
 /* line 32, sass/_home.scss */
 div.podcasts {
-  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
-  -o-box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
-  box-shadow: rgba(0, 0, 0, 0.3) 0 2px 3px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+  -o-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
 }
 /* line 35, sass/_home.scss */
 div.podcasts header {
