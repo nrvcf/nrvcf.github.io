@@ -1,11 +1,15 @@
 #header-wrapper,
-#masthead-wrapper {
+#masthead-wrapper,
+#content-wrapper,
+#footer-wrapper {
+  padding: 20px;
   @include clearfix;
 }
 
 #header,
 #masthead,
-#content {
+#content,
+#footer {
   margin: 0 auto;
   padding: 0 10px;
   width: 869px;
@@ -16,7 +20,7 @@
   background-image: url('../images/header-bg.png');
   background-position: top center;
   background-repeat: repeat-x;
-  padding: 25px 20px 20px;
+  padding-top: 25px;
 }
 
 #logo {
@@ -73,6 +77,11 @@
       font-weight: 400;
     }
   }
+}
+
+#footer-wrapper {
+  background-color: #2e2e2e;
+  margin-top: 20px;
 }
 
 .column {
