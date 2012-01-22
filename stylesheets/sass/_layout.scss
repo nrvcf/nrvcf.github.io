@@ -3,7 +3,6 @@
 #header-wrapper,
 #masthead-wrapper {
   @include clearfix;
-  padding: 20px;
 }
 
 #header,
@@ -16,6 +15,10 @@
 
 #header-wrapper {
   background-color: #2e2e2e;
+  background-image: url('../images/header-bg.png');
+  background-position: top center;
+  background-repeat: repeat-x;
+  padding: 25px 20px 20px;
 }
 
 #logo {
@@ -38,7 +41,11 @@
 
 #masthead-wrapper {
   background-color: #e6e6dd;
+  border-top: 1px solid #d8d8cc;
+  border-bottom: 1px solid #d8d8cc;
   margin-bottom: 20px;
+  padding: 20px;
+  @include box-shadow(rgba(0, 0, 0, 0.30) 0 -1px 5px);
 }
 
 .column {
