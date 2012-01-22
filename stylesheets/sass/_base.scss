@@ -1,6 +1,7 @@
 @import 'compass/reset';
 @import 'compass/css3/box-shadow';
 @import 'compass/css3/text-shadow';
+@import 'compass/utilities/general/clearfix';
 
 body {
   color: #444;
@@ -12,6 +13,21 @@ body {
 a {
   color: #016e9d;
   text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 18px;
 }
 
 p {
