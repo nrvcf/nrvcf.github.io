@@ -35,7 +35,19 @@
 
   li {
     float: left;
-    margin-left: 20px;
+    margin: 30px 0 30px 20px;
+    padding-left: 20px;
+
+    a {
+      display: block;
+      color: #ddd;
+      font-size: 18px;
+      @include text-shadow(rgba(0, 0, 0, 1.0) 0 1px 3px);
+
+      &:hover {
+        color: #fff;
+      }
+    }
   }
 }
 

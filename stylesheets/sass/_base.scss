@@ -1,10 +1,15 @@
 @import 'compass/reset';
 @import 'compass/css3/box-shadow';
+@import 'compass/css3/text-shadow';
 
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 20px;
+}
+
+a {
+  text-decoration: none;
 }
 
 p {
