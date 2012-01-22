@@ -63,7 +63,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-/* line 7, sass/_base.scss */
+/* line 8, sass/_base.scss */
 body {
   color: #444;
   font-family: Helvetica, Arial, sans-serif;
@@ -71,41 +71,41 @@ body {
   line-height: 20px;
 }
 
-/* line 14, sass/_base.scss */
+/* line 15, sass/_base.scss */
 a {
   color: #016e9d;
   text-decoration: none;
 }
 
-/* line 19, sass/_base.scss */
+/* line 20, sass/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   letter-spacing: 1px;
   margin-bottom: 20px;
 }
 
-/* line 25, sass/_base.scss */
+/* line 26, sass/_base.scss */
 h1 {
   font-size: 24px;
   font-weight: 300;
 }
 
-/* line 30, sass/_base.scss */
+/* line 31, sass/_base.scss */
 h2 {
   font-size: 18px;
 }
 
-/* line 34, sass/_base.scss */
+/* line 35, sass/_base.scss */
 h3 {
   font-size: 16px;
 }
 
-/* line 38, sass/_base.scss */
+/* line 39, sass/_base.scss */
 p {
   margin-bottom: 20px;
 }
 
-/* line 42, sass/_base.scss */
+/* line 43, sass/_base.scss */
 p:last-child {
   margin-bottom: 0;
 }
@@ -168,13 +168,17 @@ p:last-child {
   font-weight: 300;
   letter-spacing: 1px;
   text-shadow: black 0 1px 3px;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
 }
-/* line 52, sass/_layout.scss */
+/* line 53, sass/_layout.scss */
 #primary-nav li a:hover {
   color: #fff;
 }
 
-/* line 59, sass/_layout.scss */
+/* line 60, sass/_layout.scss */
 #masthead-wrapper {
   background-color: #e6e6dd;
   border-top: 1px solid #d8d8cc;
@@ -186,33 +190,33 @@ p:last-child {
   box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
 }
 
-/* line 67, sass/_layout.scss */
+/* line 68, sass/_layout.scss */
 #overview {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
-/* line 70, sass/_layout.scss */
+/* line 71, sass/_layout.scss */
 #overview p.quote {
   font-style: italic;
   font-weight: 300;
   letter-spacing: 1px;
 }
-/* line 75, sass/_layout.scss */
+/* line 76, sass/_layout.scss */
 #overview p.quote span.reference {
   font-weight: 400;
 }
 
-/* line 81, sass/_layout.scss */
+/* line 82, sass/_layout.scss */
 #footer-wrapper {
   background-color: #2e2e2e;
   margin-top: 20px;
 }
 
-/* line 87, sass/_layout.scss */
+/* line 88, sass/_layout.scss */
 .column.left {
   float: left;
   width: 599px;
 }
-/* line 92, sass/_layout.scss */
+/* line 93, sass/_layout.scss */
 .column.right {
   float: right;
   margin-left: 50px;
