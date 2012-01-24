@@ -93,19 +93,20 @@ h1 {
 /* line 31, sass/_base.scss */
 h2 {
   font-size: 18px;
+  font-weight: 300;
 }
 
-/* line 35, sass/_base.scss */
+/* line 36, sass/_base.scss */
 h3 {
   font-size: 16px;
 }
 
-/* line 39, sass/_base.scss */
+/* line 40, sass/_base.scss */
 p {
   margin-bottom: 20px;
 }
 
-/* line 43, sass/_base.scss */
+/* line 44, sass/_base.scss */
 p:last-child {
   margin-bottom: 0;
 }
