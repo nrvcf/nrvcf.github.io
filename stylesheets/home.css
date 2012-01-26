@@ -254,6 +254,7 @@ p:last-child {
   float: left;
   position: relative;
   margin: 0 -40px 1.5em 40px;
+  margin-bottom: 0;
 }
 /* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html #slideshow {
@@ -327,26 +328,26 @@ p:last-child {
 }
 
 /* line 18, sass/layout/_footer.scss */
-#posts,
-#resources {
+#resources,
+#posts {
   display: inline;
   float: left;
   margin-right: 10px;
   width: 310px;
 }
 /* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html #posts, * html
-#resources {
+* html #resources, * html
+#posts {
   overflow-x: hidden;
 }
 /* line 21, sass/layout/_footer.scss */
-#posts a,
-#resources a {
+#resources a,
+#posts a {
   color: #ddd;
 }
 
 /* line 26, sass/layout/_footer.scss */
-#resources {
+#posts {
   display: inline;
   float: left;
   position: relative;

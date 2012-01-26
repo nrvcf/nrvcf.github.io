@@ -14,8 +14,8 @@
   @include container;
 }
 
-#posts,
-#resources {
+#resources,
+#posts {
   @include column(8);
 
   a {
@@ -23,7 +23,7 @@
   }
 }
 
-#resources {
+#posts {
   @include push(1);
 }
 

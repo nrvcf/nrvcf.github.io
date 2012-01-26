@@ -37,4 +37,5 @@
 #slideshow {
   @include column(11, true);
   @include push(1);
+  margin-bottom: 0;
 }
