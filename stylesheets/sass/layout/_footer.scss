@@ -14,12 +14,16 @@
   @include container;
 }
 
+#posts,
 #resources {
   @include column(8);
+
+  a {
+    color: #ddd;
+  }
 }
 
-#posts {
-  @include column(8);
+#resources {
   @include push(1);
 }
 
