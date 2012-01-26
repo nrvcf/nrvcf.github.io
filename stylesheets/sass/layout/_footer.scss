@@ -25,5 +25,5 @@
 
 #contact {
   @include column(6, true);
-  @include push(3);
+  @include push(2);
 }
