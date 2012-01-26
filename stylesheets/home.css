@@ -304,71 +304,56 @@ p:last-child {
   overflow-x: hidden;
 }
 
-/* line 1, sass/_layout.scss */
+/* line 1, sass/_footer.scss */
 #footer-wrapper {
+  background-color: #2e2e2e;
+  margin-top: 20px;
   padding: 20px;
   overflow: hidden;
   *zoom: 1;
 }
 
-/* line 6, sass/_layout.scss */
+/* line 8, sass/_footer.scss */
 #footer {
+  width: 950px;
   margin: 0 auto;
-  padding: 0 10px;
-  width: 869px;
+  overflow: hidden;
+  *zoom: 1;
 }
 
-/* line 12, sass/_layout.scss */
-#footer-wrapper {
-  background-color: #2e2e2e;
-  margin-top: 20px;
-}
-
-/*.column {
-  &.left {
-    float: left;
-    width: 599px;
-  }
-
-  &.right {
-    float: right;
-    margin-left: 50px;
-    width: 220px;
-  }
-}*/
-/* line 8, sass/home.scss */
+/* line 7, sass/home.scss */
 div.map {
   border: 1px solid #d8d8cc;
   margin-bottom: 20px;
 }
 
-/* line 13, sass/home.scss */
+/* line 12, sass/home.scss */
 div.podcasts {
   -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
   -o-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
 }
-/* line 16, sass/home.scss */
+/* line 15, sass/home.scss */
 div.podcasts header {
   border-top: 4px solid #016e9d;
   padding: 0 10px;
 }
-/* line 20, sass/home.scss */
+/* line 19, sass/home.scss */
 div.podcasts header h3 {
   border-bottom: 1px dotted #d8d8cc;
   margin-bottom: 0;
   padding: 10px 0;
 }
-/* line 27, sass/home.scss */
+/* line 26, sass/home.scss */
 div.podcasts ul {
   padding: 10px;
 }
-/* line 31, sass/home.scss */
+/* line 30, sass/home.scss */
 div.podcasts li + li {
   margin-top: 10px;
 }
-/* line 36, sass/home.scss */
+/* line 35, sass/home.scss */
 div.podcasts span.author,
 div.podcasts span.date {
   color: #777;
