@@ -363,7 +363,7 @@ p:last-child {
   display: inline;
   float: left;
   position: relative;
-  margin: 0 -120px 1.5em 120px;
+  margin: 0 -80px 1.5em 80px;
 }
 /* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html #contact {
