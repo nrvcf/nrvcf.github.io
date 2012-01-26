@@ -1,38 +1,14 @@
-#masthead-wrapper,
 #content-wrapper,
 #footer-wrapper {
   padding: 20px;
   @include clearfix;
 }
 
-#masthead,
 #content,
 #footer {
   margin: 0 auto;
   padding: 0 10px;
   width: 869px;
-}
-
-#masthead-wrapper {
-  background-color: #e6e6dd;
-  border-top: 1px solid #d8d8cc;
-  border-bottom: 1px solid #d8d8cc;
-  padding: 20px;
-  @include box-shadow(rgba(0, 0, 0, 0.3) 0 -1px 5px);
-}
-
-#overview {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-
-  p.quote {
-    font-style: italic;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    span.reference {
-      font-weight: 400;
-    }
-  }
 }
 
 #footer-wrapper {
