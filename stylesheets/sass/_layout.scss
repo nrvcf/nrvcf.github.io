@@ -1,10 +1,8 @@
-#content-wrapper,
 #footer-wrapper {
   padding: 20px;
   @include clearfix;
 }
 
-#content,
 #footer {
   margin: 0 auto;
   padding: 0 10px;
@@ -14,17 +12,4 @@
 #footer-wrapper {
   background-color: #2e2e2e;
   margin-top: 20px;
-}
-
-.column {
-  &.left {
-    float: left;
-    width: 599px;
-  }
-
-  &.right {
-    float: right;
-    margin-left: 50px;
-    width: 220px;
-  }
 }
