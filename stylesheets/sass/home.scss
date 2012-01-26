@@ -1,8 +1,8 @@
-@import 'base';
-@import 'header';
-@import 'masthead';
-@import 'content';
-@import 'footer';
+@import 'layout/base';
+@import 'layout/header';
+@import 'layout/masthead';
+@import 'layout/content';
+@import 'layout/footer';
 
 div.map {
   border: 1px solid #d8d8cc;

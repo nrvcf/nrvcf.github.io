@@ -63,7 +63,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-/* line 9, sass/_base.scss */
+/* line 9, sass/layout/_base.scss */
 body {
   color: #444;
   font-family: Helvetica, Arial, sans-serif;
@@ -71,13 +71,13 @@ body {
   line-height: 20px;
 }
 
-/* line 16, sass/_base.scss */
+/* line 16, sass/layout/_base.scss */
 a {
   color: #016e9d;
   text-decoration: none;
 }
 
-/* line 21, sass/_base.scss */
+/* line 21, sass/layout/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -85,33 +85,33 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
 
-/* line 28, sass/_base.scss */
+/* line 28, sass/layout/_base.scss */
 h1 {
   font-size: 24px;
 }
 
-/* line 32, sass/_base.scss */
+/* line 32, sass/layout/_base.scss */
 h2 {
   font-size: 20px;
 }
 
-/* line 36, sass/_base.scss */
+/* line 36, sass/layout/_base.scss */
 h3 {
   font-size: 16px;
   font-weight: 400;
 }
 
-/* line 41, sass/_base.scss */
+/* line 41, sass/layout/_base.scss */
 p {
   margin-bottom: 20px;
 }
 
-/* line 45, sass/_base.scss */
+/* line 45, sass/layout/_base.scss */
 p:last-child {
   margin-bottom: 0;
 }
 
-/* line 1, sass/_header.scss */
+/* line 1, sass/layout/_header.scss */
 #header-wrapper {
   background-color: #2e2e2e;
   background-image: url("../images/header-bg.png");
@@ -123,7 +123,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 11, sass/_header.scss */
+/* line 11, sass/layout/_header.scss */
 #header {
   width: 950px;
   margin: 0 auto;
@@ -131,7 +131,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 15, sass/_header.scss */
+/* line 15, sass/layout/_header.scss */
 #logo {
   display: inline;
   float: left;
@@ -142,7 +142,7 @@ p:last-child {
 * html #logo {
   overflow-x: hidden;
 }
-/* line 18, sass/_header.scss */
+/* line 18, sass/layout/_header.scss */
 #logo a {
   background: url("../images/logo.png") top left no-repeat;
   display: block;
@@ -151,7 +151,7 @@ p:last-child {
   width: 197px;
 }
 
-/* line 27, sass/_header.scss */
+/* line 27, sass/layout/_header.scss */
 #primary-nav {
   display: inline;
   float: left;
@@ -162,17 +162,17 @@ p:last-child {
 * html #primary-nav {
   overflow-x: hidden;
 }
-/* line 30, sass/_header.scss */
+/* line 30, sass/layout/_header.scss */
 #primary-nav ul {
   float: right;
 }
-/* line 34, sass/_header.scss */
+/* line 34, sass/layout/_header.scss */
 #primary-nav li {
   float: left;
   margin: 30px 0 30px 20px;
   padding-left: 20px;
 }
-/* line 40, sass/_header.scss */
+/* line 40, sass/layout/_header.scss */
 #primary-nav a {
   display: block;
   color: #ddd;
@@ -186,12 +186,12 @@ p:last-child {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-/* line 50, sass/_header.scss */
+/* line 50, sass/layout/_header.scss */
 #primary-nav a:hover {
   color: #fff;
 }
 
-/* line 1, sass/_masthead.scss */
+/* line 1, sass/layout/_masthead.scss */
 #masthead-wrapper {
   background-color: #e6e6dd;
   border-top: 1px solid #d8d8cc;
@@ -205,7 +205,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 10, sass/_masthead.scss */
+/* line 10, sass/layout/_masthead.scss */
 #masthead {
   width: 950px;
   margin: 0 auto;
@@ -213,7 +213,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 14, sass/_masthead.scss */
+/* line 14, sass/layout/_masthead.scss */
 #overview {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   display: inline;
@@ -225,7 +225,7 @@ p:last-child {
 * html #overview {
   overflow-x: hidden;
 }
-/* line 18, sass/_masthead.scss */
+/* line 18, sass/layout/_masthead.scss */
 #overview p.quote {
   font-size: 28px;
   font-style: italic;
@@ -233,18 +233,18 @@ p:last-child {
   letter-spacing: 1px;
   line-height: 40px;
 }
-/* line 25, sass/_masthead.scss */
+/* line 25, sass/layout/_masthead.scss */
 #overview p.quote span.reference {
   font-size: 13px;
   font-weight: 400;
 }
-/* line 31, sass/_masthead.scss */
+/* line 31, sass/layout/_masthead.scss */
 #overview p {
   font-size: 16px;
   line-height: 24px;
 }
 
-/* line 37, sass/_masthead.scss */
+/* line 37, sass/layout/_masthead.scss */
 #slideshow {
   display: inline;
   float: left;
@@ -260,14 +260,14 @@ p:last-child {
   overflow-x: hidden;
 }
 
-/* line 1, sass/_content.scss */
+/* line 1, sass/layout/_content.scss */
 #content-wrapper {
   padding: 20px;
   overflow: hidden;
   *zoom: 1;
 }
 
-/* line 6, sass/_content.scss */
+/* line 6, sass/layout/_content.scss */
 #content {
   width: 950px;
   margin: 0 auto;
@@ -276,7 +276,7 @@ p:last-child {
   overflow: visible;
 }
 
-/* line 11, sass/_content.scss */
+/* line 11, sass/layout/_content.scss */
 #body {
   display: inline;
   float: left;
@@ -288,7 +288,7 @@ p:last-child {
   overflow-x: hidden;
 }
 
-/* line 15, sass/_content.scss */
+/* line 15, sass/layout/_content.scss */
 #sidebar {
   display: inline;
   float: left;
@@ -304,7 +304,7 @@ p:last-child {
   overflow-x: hidden;
 }
 
-/* line 1, sass/_footer.scss */
+/* line 1, sass/layout/_footer.scss */
 #footer-wrapper {
   background-color: #2e2e2e;
   margin-top: 20px;
@@ -313,7 +313,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 8, sass/_footer.scss */
+/* line 8, sass/layout/_footer.scss */
 #footer {
   width: 950px;
   margin: 0 auto;
