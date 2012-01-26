@@ -307,18 +307,67 @@ p:last-child {
 /* line 1, sass/layout/_footer.scss */
 #footer-wrapper {
   background-color: #2e2e2e;
+  color: #ddd;
   margin-top: 20px;
   padding: 20px;
   overflow: hidden;
   *zoom: 1;
 }
-
 /* line 8, sass/layout/_footer.scss */
+#footer-wrapper h3 {
+  color: #fff;
+}
+
+/* line 13, sass/layout/_footer.scss */
 #footer {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
   *zoom: 1;
+}
+
+/* line 17, sass/layout/_footer.scss */
+#resources {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 310px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #resources {
+  overflow-x: hidden;
+}
+
+/* line 21, sass/layout/_footer.scss */
+#posts {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 310px;
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 -40px 1.5em 40px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #posts {
+  overflow-x: hidden;
+}
+
+/* line 26, sass/layout/_footer.scss */
+#contact {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 230px;
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 -120px 1.5em 120px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #contact {
+  overflow-x: hidden;
 }
 
 /* line 7, sass/home.scss */
