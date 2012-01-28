@@ -3,7 +3,7 @@
   <ol>
     {% for podcast in site.categories.podcasts limit: 6 %}
     <li>
-      <a href="#">{{ podcast.title }}</a><br />
+      <a href="{{ podcast.download_link }}" target="_blank">{{ podcast.title }}</a><br />
       <span class="date">{{ podcast.date | date: '%B %d, %Y' }}</span>
     </li>
     {% endfor %}
