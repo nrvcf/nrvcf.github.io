@@ -1,0 +1,34 @@
+#footer-wrapper {
+  background-color: #2e2e2e;
+  color: #ddd;
+  display: none;
+  margin-top: 20px;
+  padding: 20px;
+  @include clearfix;
+
+  h3 {
+    color: #fff;
+  }
+}
+
+#footer {
+  @include container;
+}
+
+#resources,
+#posts {
+  @include column(8);
+
+  a {
+    color: #ddd;
+  }
+}
+
+#posts {
+  @include push(1);
+}
+
+#contact {
+  @include column(6, true);
+  @include push(2);
+}
