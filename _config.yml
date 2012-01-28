@@ -2,6 +2,8 @@ permalink: pretty
 exclude:
 - .gitignore
 - .rvmrc
+- assets/images/source/
+- assets/stylesheets/source/
 - config.rb
 - Gemfile
 - Gemfile.lock
