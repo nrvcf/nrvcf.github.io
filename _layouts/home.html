@@ -9,14 +9,19 @@
   <meta name="description" content="SOME DESCRIPTION">
 
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,300italic,300,400" rel="stylesheet" type="text/css">
-  <link href="stylesheets/home.css" rel="stylesheet" type="text/css">
+  <link href="assets/stylesheets/home.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   {% include header.html %}
   {% include masthead.html %}
   <div id="content-wrapper">
     <div id="content">
-      {{content}}
+      <div id="body">
+        {{content}}
+      </div>
+    </div>
+    <div id="sidebar">
+      {% include podcasts.html %}
     </div>
   </div>
   {% include footer.html %}
