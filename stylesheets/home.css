@@ -309,17 +309,18 @@ p:last-child {
 #footer-wrapper {
   background-color: #2e2e2e;
   color: #ddd;
+  display: none;
   margin-top: 20px;
   padding: 20px;
   overflow: hidden;
   *zoom: 1;
 }
-/* line 8, sass/layout/_footer.scss */
+/* line 9, sass/layout/_footer.scss */
 #footer-wrapper h3 {
   color: #fff;
 }
 
-/* line 13, sass/layout/_footer.scss */
+/* line 14, sass/layout/_footer.scss */
 #footer {
   width: 950px;
   margin: 0 auto;
@@ -327,7 +328,7 @@ p:last-child {
   *zoom: 1;
 }
 
-/* line 18, sass/layout/_footer.scss */
+/* line 19, sass/layout/_footer.scss */
 #resources,
 #posts {
   display: inline;
@@ -340,13 +341,13 @@ p:last-child {
 #posts {
   overflow-x: hidden;
 }
-/* line 21, sass/layout/_footer.scss */
+/* line 22, sass/layout/_footer.scss */
 #resources a,
 #posts a {
   color: #ddd;
 }
 
-/* line 26, sass/layout/_footer.scss */
+/* line 27, sass/layout/_footer.scss */
 #posts {
   display: inline;
   float: left;
@@ -354,7 +355,7 @@ p:last-child {
   margin: 0 -40px 1.5em 40px;
 }
 
-/* line 30, sass/layout/_footer.scss */
+/* line 31, sass/layout/_footer.scss */
 #contact {
   display: inline;
   float: left;
