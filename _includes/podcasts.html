@@ -1,11 +1,11 @@
 <div class="podcasts">
   <header><h3>Podcasts</h3></header>
-  <ul>
+  <ol>
     {% for podcast in site.categories.podcasts limit: 6 %}
     <li>
       <a href="#">{{ podcast.title }}</a><br />
       <span class="date">{{ podcast.date | date: '%B %d, %Y' }}</span>
     </li>
     {% endfor %}
-  </ul>
+  </ol>
 </div>
