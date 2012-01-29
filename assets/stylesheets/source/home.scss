@@ -33,6 +33,15 @@
   margin-bottom: 0;
 }
 
+#body {
+  @include column(17);
+}
+
+#sidebar {
+  @include column(6, true);
+  @include push(1);
+}
+
 div.map {
   border: 1px solid #d8d8cc;
   height: 266px;

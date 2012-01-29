@@ -9,4 +9,8 @@
 
 #masthead {
   @include container;
+
+  h1 {
+    margin: 0;
+  }
 }

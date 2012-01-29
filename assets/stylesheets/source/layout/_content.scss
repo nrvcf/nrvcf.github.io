@@ -7,12 +7,3 @@
   @include container;
   overflow: visible;
 }
-
-#body {
-  @include column(17);
-}
-
-#sidebar {
-  @include column(6, true);
-  @include push(1);
-}

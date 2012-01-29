@@ -1,0 +1,14 @@
+@import 'layout/base';
+@import 'layout/header';
+@import 'layout/masthead';
+@import 'layout/content';
+@import 'layout/footer';
+
+#body {
+  @include column(17, true);
+  @include push(1);
+}
+
+#sidebar {
+  @include column(6);
+}
