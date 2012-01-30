@@ -18,10 +18,11 @@ That's it! You can use any Rack-based application server to see the site. If you
 Adding Content
 ==============
 
+Building the Site
+=================
 
 Publishing the Site
 ===================
-
 
 Rake Tasks
 ==========
