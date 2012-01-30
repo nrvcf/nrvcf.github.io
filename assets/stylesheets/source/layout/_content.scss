@@ -7,3 +7,29 @@
   @include container;
   overflow: visible;
 }
+
+ul.subnav {
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+
+  li {
+    margin-right: -10px;
+
+    a {
+      background: #eee;
+      border-top: 1px solid #fff;
+      border-bottom: 1px solid #ddd;
+      display: block;
+      margin-right: 10px;
+      padding: 10px;
+    }
+
+    &.active {
+      background: #eee;
+    }
+  }
+}
+
+
+
