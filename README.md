@@ -15,6 +15,9 @@ bundle install
 
 That's it! You can use any Rack-based application server to see the site. If you'd like, use Jekyll's built-in webserver by typing ```jekyll --server``` inside your project directory.
 
+Directory Structure
+===================
+
 Adding Content
 ==============
 
