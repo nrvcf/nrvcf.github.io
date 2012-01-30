@@ -4,7 +4,12 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Ekklesia Blacksburg</title>
+  <title>
+    Ekklesia Blacksburg
+    {% if page.title %}
+    | {{ page.title }}
+    {% endif %}
+  </title>
   <meta name="author" content="Ekklesia Blacksburg">
   <meta name="description" content="DESCRIPTION">
   <meta name="keywords" content="KEYWORDS">
