@@ -1,9 +1,17 @@
+COMPASS_CONFIG = 'config/compass.rb'
+JEKYLL_CONFIG = 'config/jekyll.yml'
+
 task :default => 'build'
 
 desc 'Build the website'
 task :build do
-  sh('bundle exec compass compile --force')
+  sh("bundle exec compass compile --force --config #{COMPASS_CONFIG}")
   sh('bundle exec jekyll')
+end
+
+desc 'Remove built files'
+task :clean do
+  puts 'Removing built files...'
 end
 
 desc 'Publish the website'
