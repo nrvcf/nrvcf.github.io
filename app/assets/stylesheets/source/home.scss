@@ -1,0 +1,79 @@
+@import 'layout/base';
+@import 'layout/header';
+@import 'layout/masthead';
+@import 'layout/content';
+@import 'layout/footer';
+
+#overview {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  @include column(12);
+
+  p.quote {
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 40px;
+
+    span.reference {
+      font-size: 13px;
+      font-weight: 400;
+    }
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+#slideshow {
+  @include column(11, true);
+  @include push(1);
+  margin-bottom: 0;
+}
+
+#body {
+  @include column(17);
+}
+
+#sidebar {
+  @include column(6, true);
+  @include push(1);
+}
+
+div.map {
+  border: 1px solid #d8d8cc;
+  height: 266px;
+  margin-bottom: 20px;
+  width: 668px;
+}
+
+div.podcasts {
+  @include box-shadow(rgba(0, 0, 0, 0.3) 0 1px 3px);
+
+  header {
+    border-top: 4px solid #016e9d;
+    padding: 0 10px;
+
+    h3 {
+      border-bottom: 1px dotted #d8d8cc;
+      margin-bottom: 0;
+      padding: 10px 0;
+    }
+  }
+
+  ol {
+    padding: 10px;
+  }
+
+  li + li {
+    margin-top: 10px;
+  }
+
+  span.author,
+  span.date {
+    color: #777;
+    font-size: 11px;
+  }
+}

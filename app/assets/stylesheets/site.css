@@ -1,0 +1,352 @@
+/* line 17, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 20, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+body {
+  line-height: 1;
+}
+
+/* line 22, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 24, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 26, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 28, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 101, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 30, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 114, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 9, source/layout/_base.scss */
+body {
+  color: #444;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+/* line 16, source/layout/_base.scss */
+a {
+  color: #016e9d;
+  text-decoration: none;
+}
+
+/* line 21, source/layout/_base.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+/* line 28, source/layout/_base.scss */
+h1 {
+  font-size: 24px;
+}
+
+/* line 32, source/layout/_base.scss */
+h2 {
+  font-size: 20px;
+}
+
+/* line 36, source/layout/_base.scss */
+h3 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/* line 41, source/layout/_base.scss */
+p {
+  margin-bottom: 20px;
+}
+
+/* line 45, source/layout/_base.scss */
+p:last-child {
+  margin-bottom: 0;
+}
+
+/* line 1, source/layout/_header.scss */
+#header-wrapper {
+  background-color: #2e2e2e;
+  background-image: url("../images/header-bg.png");
+  background-position: top center;
+  background-repeat: repeat-x;
+  padding: 20px;
+  padding-top: 25px;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 11, source/layout/_header.scss */
+#header {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 15, source/layout/_header.scss */
+#logo {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 230px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #logo {
+  overflow-x: hidden;
+}
+/* line 18, source/layout/_header.scss */
+#logo a {
+  background: url("../images/logo.png") center left no-repeat;
+  display: block;
+  height: 75px;
+  text-indent: -9000px;
+  width: 197px;
+}
+
+/* line 27, source/layout/_header.scss */
+#primary-nav {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 710px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #primary-nav {
+  overflow-x: hidden;
+}
+/* line 30, source/layout/_header.scss */
+#primary-nav ul {
+  float: right;
+}
+/* line 34, source/layout/_header.scss */
+#primary-nav li {
+  float: left;
+  margin: 25px 0 25px 20px;
+  padding-left: 20px;
+}
+/* line 40, source/layout/_header.scss */
+#primary-nav a {
+  display: block;
+  color: #ddd;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-shadow: black 0 1px 3px;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+/* line 50, source/layout/_header.scss */
+#primary-nav a:hover {
+  color: #fff;
+}
+
+/* line 1, source/layout/_masthead.scss */
+#masthead-wrapper {
+  background-color: #e6e6dd;
+  border-top: 1px solid #d8d8cc;
+  border-bottom: 1px solid #d8d8cc;
+  padding: 20px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  -o-box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 -1px 5px;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 10, source/layout/_masthead.scss */
+#masthead {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 13, source/layout/_masthead.scss */
+#masthead h1 {
+  margin: 0;
+}
+
+/* line 1, source/layout/_content.scss */
+#content-wrapper {
+  padding: 20px;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 6, source/layout/_content.scss */
+#content {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+  overflow: visible;
+}
+
+/* line 11, source/layout/_content.scss */
+ul.subnav {
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+/* line 16, source/layout/_content.scss */
+ul.subnav li {
+  margin-right: -10px;
+}
+/* line 19, source/layout/_content.scss */
+ul.subnav li a {
+  background: #eee;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #ddd;
+  display: block;
+  margin-right: 10px;
+  padding: 10px;
+}
+/* line 28, source/layout/_content.scss */
+ul.subnav li.active {
+  background: #eee;
+}
+
+/* line 1, source/layout/_footer.scss */
+#footer-wrapper {
+  background-color: #2e2e2e;
+  color: #ddd;
+  display: none;
+  margin-top: 20px;
+  padding: 20px;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 9, source/layout/_footer.scss */
+#footer-wrapper h3 {
+  color: #fff;
+}
+
+/* line 14, source/layout/_footer.scss */
+#footer {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+/* line 19, source/layout/_footer.scss */
+#resources,
+#posts {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 310px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #resources, * html
+#posts {
+  overflow-x: hidden;
+}
+/* line 22, source/layout/_footer.scss */
+#resources a,
+#posts a {
+  color: #ddd;
+}
+
+/* line 27, source/layout/_footer.scss */
+#posts {
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 -40px 1.5em 40px;
+}
+
+/* line 31, source/layout/_footer.scss */
+#contact {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 230px;
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 -80px 1.5em 80px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #contact {
+  overflow-x: hidden;
+}
+
+/* line 7, source/site.scss */
+#body {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 670px;
+  display: inline;
+  float: left;
+  position: relative;
+  margin: 0 -40px 1.5em 40px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #body {
+  overflow-x: hidden;
+}
+
+/* line 12, source/site.scss */
+#sidebar {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 230px;
+}
+/* line 147, ../../../../../.rvm/gems/ruby-1.9.3-p0@ekklesia.github.com/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html #sidebar {
+  overflow-x: hidden;
+}
