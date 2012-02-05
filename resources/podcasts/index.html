@@ -1,0 +1,11 @@
+---
+title: Podcasts
+layout: resources
+---
+
+{% for podcast in site.categories.podcasts %}
+<div class="podcast">
+  <h3><a href="{{ podcast.download_link }}" target="_blank">{{ podcast.title }}</a></h3>
+  <p>{{ podcast.date | date: '%B %d, %Y' }}</p>
+</div>
+{% endfor %}
