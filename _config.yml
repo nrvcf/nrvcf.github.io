@@ -1,3 +1,5 @@
+source: app
+destination: public
 permalink: pretty
 exclude:
 - .gitignore
