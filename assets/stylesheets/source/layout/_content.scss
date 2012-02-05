@@ -9,27 +9,17 @@
 }
 
 ul.subnav {
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  border-top: 1px solid #d8d8cc;
+  border-left: 1px solid #d8d8cc;
+  border-right: 1px solid #d8d8cc;
 
   li {
-    margin-right: -10px;
-
     a {
-      background: #eee;
-      border-top: 1px solid #fff;
-      border-bottom: 1px solid #ddd;
+      background: #e6e6dd;
+      border-top: 1px solid rgba(255, 255, 255, 0.5);
+      border-bottom: 1px solid #d8d8cc;
       display: block;
-      margin-right: 10px;
       padding: 10px;
-    }
-
-    &.active {
-      background: #eee;
     }
   }
 }
-
-
-
