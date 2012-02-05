@@ -4,19 +4,9 @@ JEKYLL_CONFIG = 'config/jekyll.yml'
 task :default => 'build'
 
 desc 'Build the website'
-task :build do
+task :build do |t, args|
   sh("bundle exec compass compile --force --config #{COMPASS_CONFIG}")
-  sh('bundle exec jekyll')
-end
-
-desc 'Remove built files'
-task :clean do
-  puts 'Removing built files...'
-end
-
-desc 'Publish the website'
-task :publish do
-  puts 'Publishing website...'
+  # sh('bundle exec jekyll')
 end
 
 desc 'Create a new page'
