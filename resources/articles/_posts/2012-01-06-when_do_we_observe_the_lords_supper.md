@@ -1,5 +1,5 @@
 ---
-title: When Do We Observe the Lord's Suppoer
+title: When Do We Observe the Lord's Supper
 layout: resources
 ---
 
