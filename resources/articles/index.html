@@ -1,0 +1,11 @@
+---
+title: Articles
+layout: resources
+---
+
+{% for article in site.categories.articles %}
+<div class="article">
+  <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+  {{ article.content | truncatewords: 100 }}
+</div>
+{% endfor %}
