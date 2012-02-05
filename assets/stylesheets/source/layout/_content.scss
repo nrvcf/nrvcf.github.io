@@ -12,8 +12,11 @@ ul.subnav {
   border-top: 1px solid #d8d8cc;
   border-left: 1px solid #d8d8cc;
   border-right: 1px solid #d8d8cc;
+  list-style: none;
 
   li {
+    margin: 0;
+
     a {
       background: #e6e6dd;
       border-top: 1px solid rgba(255, 255, 255, 0.5);
