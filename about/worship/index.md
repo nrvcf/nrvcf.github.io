@@ -1,6 +1,6 @@
 ---
 title: Sunday Worship
-layout: ministries
+layout: about
 ---
 
 All are welcome!

@@ -1,6 +1,6 @@
 ---
 title: Missions
-layout: about
+layout: ministries
 ---
 
 To date, we have assisted the local medical missions ministry, "International Christian Resources," in their efforts in El Salvador and Kenya and intend on working further with them.
