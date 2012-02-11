@@ -4,6 +4,10 @@
 @import 'layout/content';
 @import 'layout/footer';
 
+#masthead {
+  overflow: visible;
+}
+
 #overview {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   @include column(12);
@@ -30,7 +34,10 @@
 #slideshow {
   @include column(11, true);
   @include push(1);
+  @include box-shadow(rgba(0, 0, 0, 0.7) 0 0 5px);
+  height: 234px;
   margin-bottom: 0;
+  width: 430px;
 }
 
 #body {
