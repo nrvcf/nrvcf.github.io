@@ -24,9 +24,8 @@ Doug has been married to Michelle (who he met in a college Bible study) since 19
 
 **Drew Grumbles**
 
-Drew first came to Ekklesia as a student at Virginia Tech majoring in Religious Studies.  The son of missionaries in Costa Rica, Drew intended to enter the mission field as well after completing his Bachelor's at Tech and then attending seminary.
+Drew first came to Ekklesia in 2007, right about the time Ekklesia began meeting on Sunday mornings, and has been there ever since. At that time, he was a student at Virginia Tech. He finished his Bachelor's degree at VT in Religious Studies and Philosophy and then decided to attend seminary at Southeastern Baptist Theological Seminary in Wake Forest, NC. Because he wanted to stay at Ekklesia, he is currently earning his degree by taking distance courses and commuting.
 
-As graduation approached and plans for the future needed to be solidified, Pastor Doug approached Drew about the idea of him remaining at Ekklesia during his seminary studies in order that Ekklesia may have the joy of preparing him and sending him out as a missionary.  Drew agreed saying that he had sensed that the Lord desired for him to stay at Ekklesia even before Pastor Doug had made the request.
+In January 2011, the congregation chose Drew to serve as an elder.
 
-As Drew began his studies, it became clear that the Lord has his hand on him in a special way.  In many ways, he was a model of what a church leader should be:  eager to teach, hospitable, evangelistic, etc.  Pastor Doug, having prayed for some time for God to raise up another elder from among the congregation asked Drew about his plans for the immediate future.  Drew explained that he no longer felt that the Lord intended to send him and his family (he had gotten married to Helen during his last semester at Tech) onto the mission field themselves, but that God's intention was to keep him at Ekklesia in order to train and equip the missionaries that the church would one day send out and support.  Pastor Doug then asked Drew to pray about becoming an elder.  Drew agreed and, when presented as a candidate before the congregation, was unanimously voted in by a congregation who had grown to love him, his passion for the Gospel, and his passion for the church whom he promised to serve in humility.
-
+He works at Craftmaster in Christiansburg for his employment. He has been married to his wife Helen since 2009 and is the father of two children, Owen (born in 2010) and Clara (born in 2011).
