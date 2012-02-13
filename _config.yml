@@ -1,3 +1,4 @@
+baseurl: http://eblacksburg.com
 permalink: pretty
 exclude:
 - .gitignore
