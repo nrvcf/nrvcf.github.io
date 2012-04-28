@@ -3,6 +3,10 @@ title: Small Groups
 layout: ministries
 ---
 
-We currently have two small groups, one meeting on Sunday nights at 5 pm and the other on Wednesday nights at 7 pm. Locations rotate through members' homes, so please contact us for information.
+Our small groups are more intimate communities within the church which seek to enjoy, encourage and support one another as we learn more about God and His design for our lives.
 
-Our small groups are designed to build up our church into a community centered around God's Word. In addition, they provide an opportunity for those who may not want to step inside church doors to come into contact with a group of believers. During our time we are led to think through Sunday morning's sermon, learn how to apply it, and help each other to put Scripture into practice. All are welcome to join us!
+In these groups we center on building community and discussing the practical application of the week’s sermon with a view to living it out alongside one another.  If you have not been to an Ekklesia Sunday morning service, our groups are a great way to be introduced to our church family and to get a feel for what it is that our church believes and does.
+
+Our groups meet at various times during the week in various locations on the VT Campus, in Blacksburg and in Christiansburg.
+
+Please contact Josh Keith for more information:  [jdkeith2@gmail.com](mailto:jdkeith2@gmail.com)
