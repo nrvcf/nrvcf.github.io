@@ -56,7 +56,16 @@ div.map {
   width: 668px;
 }
 
-div.podcasts {
+div.announcement {
+  background: #fbe3e4;
+  border: 2px solid #fbc2c4;
+  color: #8a1f11;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+div.pane {
+  margin-bottom: 20px;
   @include box-shadow(rgba(0, 0, 0, 0.3) 0 1px 3px);
 
   header {
@@ -71,6 +80,7 @@ div.podcasts {
   }
 
   ol {
+    min-height: 200px;
     padding: 10px;
   }
 
@@ -88,12 +98,25 @@ div.podcasts {
     color: #777;
     font-size: 11px;
   }
+
+  &.loading ol {
+    background-image: url('../images/loading.gif');
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
 }
 
-div.announcement {
-  background: #fbe3e4;
-  border: 2px solid #fbc2c4;
-  color: #8a1f11;
-  margin-bottom: 20px;
-  padding: 20px;
+#podcasts {
+
+}
+
+#twitter-feed {
+  li + li {
+    border-top: 1px dotted #d8d8cc;
+    padding-top: 10px;
+  }
+
+  p {
+    margin: 0;
+  }
 }
