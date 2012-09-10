@@ -80,7 +80,6 @@ div.pane {
   }
 
   ol {
-    min-height: 200px;
     padding: 10px;
   }
 
@@ -103,6 +102,24 @@ div.pane {
     background-image: url('../images/loading.gif');
     background-position: center center;
     background-repeat: no-repeat;
+  }
+}
+
+#social {
+  li.twitter,
+  li.facebook {
+    padding-left: 26px;
+    background-repeat: no-repeat;
+  }
+
+  li.twitter {
+    background-image: url('../images/twitter-icon.png');
+    background-position: 0 1px;
+  }
+
+  li.facebook {
+    background-image: url('../images/facebook-icon.png');
+    background-position: 0 0;
   }
 }
 
