@@ -3,7 +3,7 @@ task :default => 'build'
 desc 'Build the website'
 task :build do |t, args|
   sh("bundle exec compass compile --force")
-  sh('bundle exec jekyll')
+  sh('bundle exec jekyll build')
 end
 
 desc 'Create a new page'
