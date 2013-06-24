@@ -5,9 +5,7 @@ layout: about
 
 All are welcome!
 
-We are currently meeting at 10:00AM for worship at the Blacksburg Community Center on Patrick Henry Drive across from Blacksburg High School (725 Patrick Henry Drive, Blacksburg, VA 24060).
-
-A fellowship meal immediately follows.
+We are currently meeting at 10:00AM for worship at <a href="http://www.thelyric.com/" target="_blank">The Lyric</a> in downtown Blacksburg (135 College Avenue, Blacksburg, VA 24060).
 
 
 Understanding the church to be a family and a community, we attempt to organize our mornings as such.
