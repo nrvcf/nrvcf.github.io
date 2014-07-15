@@ -42,7 +42,7 @@ The Bible makes it clear that we are not to wait until heaven; it contains frequ
 
  “Speak to one another with psalms, hymns and spiritual songs.  Sing and make music in your heart to the Lord” (Eph. 5:19)
 
-At Ekklesia you will find a mixture of both newer songs and older hymns. You will also find an emphasis on congregational singing. This does not mean that we don't have musicians leading us in worship, but it does mean we do not have a rock band that will drown out the voices of the people of God. We believe the Bible commands a joyful reverence, as we all together lift our voices and hearts to the Lord.
+At New River Valley Christian Fellowship you will find a mixture of both newer songs and older hymns. You will also find an emphasis on congregational singing. This does not mean that we don't have musicians leading us in worship, but it does mean we do not have a rock band that will drown out the voices of the people of God. We believe the Bible commands a joyful reverence, as we all together lift our voices and hearts to the Lord.
 
 
 Responsive Reading-
@@ -52,7 +52,7 @@ Prayer of Intercession-
 Paul wrote, "I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way" (1 Tim. 2:1-2). We follow this instruction by praying for those who rule over us, as well as for our brothers and sisters across the globe.
 
 The Preaching of God's Word-
-At Ekklesia we preach expositionally. This means that each message seeks to declare the point of a particular Biblical passage and reflect on its application to our modern situation.
+At New River Valley Christian Fellowship we preach expositionally. This means that each message seeks to declare the point of a particular Biblical passage and reflect on its application to our modern situation.
 
 Rather than offer sermons such as "Top 5 Ways to Experience Success in Life," which are rarely very helpful, we simply let God speak through His Word anticipating that He will minister to our hearts and minds in ways that we could not hope to summarize in 3 or 5 point ditties.
 

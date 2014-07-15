@@ -5,13 +5,13 @@ layout: resources
 
 To be a member of a church is to make a public promise to live according to the Word and to support the work of the congregation. In the Bible this is called a covenant. Every believer is part of the church as organism (the Spiritual Body of Christ), but only by a public promise can you be part of the church as organization. A public promise, or covenant, is the basis for all society, according to the Bible: marriage, employment, citizenship, church membership, etc., are all relationships of accountability.
 
-Membership in a church is not like membership in a social club or other organizations. Most organization members are consumers; the organization exists to serve them. The Church of Christ is a completely different community - membership means ministry and service, going from being a consumer to becoming a provider of God's love and care to others. At Ekklesia, we take seriously that we are a church not for ourselves, but for others.
+Membership in a church is not like membership in a social club or other organizations. Most organization members are consumers; the organization exists to serve them. The Church of Christ is a completely different community - membership means ministry and service, going from being a consumer to becoming a provider of God's love and care to others. At New River Valley Christian Fellowship, we take seriously that we are a church not for ourselves, but for others.
 
-We therefore encourage all those who call Ekklesia their church home to become official members.
+We therefore encourage all those who call New River Valley Christian Fellowship their church home to become official members.
 
-At Ekklesia, we have two membership options.  The first is regular full membership, the second is called an "associate membership."  An associate member is someone who is residing in Blacksburg temporarily and maintains membership in a home church to which they intend on returning.  In order to live in a covenant agreement with a local church body for the reasons listed below, the individual is encouraged to join Ekklesia as their "Blacksburg home church."  They would be expected to maintain their membership at their home church and a letter of commendation would be sought from that church.  The difference between an associate and full member is that associate members would not be able to vote in church matters.
+At New River Valley Christian Fellowship, we have two membership options.  The first is regular full membership, the second is called an "associate membership."  An associate member is someone who is residing in Blacksburg temporarily and maintains membership in a home church to which they intend on returning.  In order to live in a covenant agreement with a local church body for the reasons listed below, the individual is encouraged to join New River Valley Christian Fellowship as their "Blacksburg home church."  They would be expected to maintain their membership at their home church and a letter of commendation would be sought from that church.  The difference between an associate and full member is that associate members would not be able to vote in church matters.
 
-So why should you join Ekklesia?  8 Reasons
+So why should you join New River Valley Christian Fellowship?  8 Reasons
 
 1)  First, join for non-Christians.
 

@@ -24,7 +24,7 @@ Doug has been married to Michelle (who he met in a college Bible study) since 19
 
 **Drew Grumbles**
 
-Drew first came to Ekklesia in 2007, right about the time Ekklesia began meeting on Sunday mornings, and has been there ever since. At that time, he was a student at Virginia Tech. He finished his Bachelor's degree at VT in Religious Studies and Philosophy and then decided to attend seminary at Southeastern Baptist Theological Seminary in Wake Forest, NC. Because he wanted to stay at Ekklesia, he is currently earning his degree by taking distance courses and commuting.
+Drew first came to New River Valley Christian Fellowship in 2007, right about the time New River Valley Christian Fellowship began meeting on Sunday mornings, and has been there ever since. At that time, he was a student at Virginia Tech. He finished his Bachelor's degree at VT in Religious Studies and Philosophy and then decided to attend seminary at Southeastern Baptist Theological Seminary in Wake Forest, NC. Because he wanted to stay at New River Valley Christian Fellowship, he is currently earning his degree by taking distance courses and commuting.
 
 In January 2011, the congregation chose Drew to serve as an elder.
 

@@ -3,7 +3,7 @@ title: Is Style a Matter of Preference?
 layout: resources
 ---
 
-At Ekklesia, we do not believe that the structure and content of a worship service is simply a matter of preference.
+At New River Valley Christian Fellowship, we do not believe that the structure and content of a worship service is simply a matter of preference.
 
 While there is no one particular form that we can point to as being the only form for genuine worship, we do believe that there are some forms which are better than others at being faithful to what God has called for in our worship of Him.
 

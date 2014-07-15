@@ -24,7 +24,7 @@ Psalm 67 shows us that God's purpose is to be known and praised and enjoyed and 
 
 We see God's people asking in verse 1 that would bless them, not for their own sake, but so that they would be able to make His way and salvation known in these ways.
 
-We at Ekklesia pray in the same manner- that God will bless us so that we can be a blessing to the nations by spreading the glory of His name.
+We at New River Valley Christian Fellowship pray in the same manner- that God will bless us so that we can be a blessing to the nations by spreading the glory of His name.
 
 
 
