@@ -1,56 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+      <loc>/2013-06-23-our_need_for_community.html</loc>
+      <lastmod>2014-07-14</lastmod>
+  </url>
+  <url>
+      <loc>/2013-07-07-john_16_4_15.html</loc>
+      <lastmod>2014-07-14</lastmod>
+  </url>
+  <url>
       <loc>/about/affiliation/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-15</lastmod>
   </url>
   <url>
       <loc>/about/beliefs/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/about/covenant/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/about/elders/</loc>
-      <lastmod>2013-03-20</lastmod>
-  </url>
-  <url>
-      <loc>/about/name/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-15</lastmod>
   </url>
   <url>
       <loc>/about/worship/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/</loc>
-      <lastmod>2013-06-23</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/ministries/children/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/ministries/missions/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-15</lastmod>
   </url>
   <url>
       <loc>/ministries/small_groups/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-15</lastmod>
   </url>
   <url>
       <loc>/resources/articles/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/resources/podcasts/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
   </url>
   <url>
       <loc>/resources/videos/</loc>
-      <lastmod>2013-03-20</lastmod>
+      <lastmod>2014-07-14</lastmod>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/05/18/acts_9_1_19/</loc>
+      <lastmod>2014-05-18</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/05/11/acts_8_26_40/</loc>
+      <lastmod>2014-05-11</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/05/04/acts_8_9_25/</loc>
+      <lastmod>2014-05-04</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/04/27/2_corinthians_2_12_17/</loc>
+      <lastmod>2014-04-27</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/04/20/luke_15_1_32/</loc>
+      <lastmod>2014-04-20</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/04/06/1_chronicles_7_14_19/</loc>
+      <lastmod>2014-04-06</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/03/16/acts_8_4_8/</loc>
+      <lastmod>2014-03-16</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/03/09/acts_8_1_4/</loc>
+      <lastmod>2014-03-09</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/03/02/acts_6_8_8_3/</loc>
+      <lastmod>2014-03-02</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/02/23/acts_6_1_7/</loc>
+      <lastmod>2014-02-23</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/02/09/acts_4_32_5_11/</loc>
+      <lastmod>2014-02-09</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/02/02/acts_4_1_31/</loc>
+      <lastmod>2014-02-02</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/01/26/acts_3_17_26/</loc>
+      <lastmod>2014-01-26</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/01/19/acts_3_1_16/</loc>
+      <lastmod>2014-01-19</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/01/12/acts_2_38_47/</loc>
+      <lastmod>2014-01-12</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2014/01/05/acts_2_37_38/</loc>
+      <lastmod>2014-01-05</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/12/22/isaiah_9_6/</loc>
+      <lastmod>2013-12-22</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/12/15/luke_1_46_56/</loc>
+      <lastmod>2013-12-15</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/11/24/colossians_2_2_4/</loc>
+      <lastmod>2013-11-24</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/11/17/acts_2_1_21/</loc>
+      <lastmod>2013-11-17</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/11/10/acts_2_1_41/</loc>
+      <lastmod>2013-11-10</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/11/03/acts_1_15_26/</loc>
+      <lastmod>2013-11-03</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/10/27/acts_1_12_19/</loc>
+      <lastmod>2013-10-27</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/10/20/acts_1_9_11/</loc>
+      <lastmod>2013-10-20</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/10/13/acts_1_4_8/</loc>
+      <lastmod>2013-10-13</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/10/06/acts_1_1_3/</loc>
+      <lastmod>2013-10-06</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/09/29/john_21_01_25/</loc>
+      <lastmod>2013-09-29</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/09/22/john_19_31_20_31/</loc>
+      <lastmod>2013-09-22</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/09/15/john_19_26_30/</loc>
+      <lastmod>2013-09-15</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/09/08/john_18_28_19_42/</loc>
+      <lastmod>2013-09-08</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/09/01/john_18_28_40/</loc>
+      <lastmod>2013-09-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/08/25/john_18_28_36/</loc>
+      <lastmod>2013-08-25</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/08/18/john_18_15_27/</loc>
+      <lastmod>2013-08-18</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/08/11/john_18_01_14/</loc>
+      <lastmod>2013-08-11</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/08/04/john_17_10_26+/</loc>
+      <lastmod>2013-08-04</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/07/21/john_17_1_5/</loc>
+      <lastmod>2013-07-21</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/07/07/john_16_4_15/</loc>
+      <lastmod>2013-07-07</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/06/30/responding_to_our_culture/</loc>
+      <lastmod>2013-06-30</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/06/23/our_need_for_community/</loc>
+      <lastmod>2013-06-23</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/resources/podcasts/2013/06/16/proverbs_27_17/</loc>
+      <lastmod>2013-06-16</lastmod>
+      <changefreq>never</changefreq>
   </url>
   <url>
       <loc>/resources/podcasts/2013/06/09/john_15_18_16_4/</loc>
